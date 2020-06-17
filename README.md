@@ -13,5 +13,7 @@
   <li>
 <a href=https://github.com/victorcalarasu/OOP> Object Oriented Programming </a>  
 </li>
-
+<li>
+  <a href=https://github.com/victorcalarasu/MAP>Advanced Methods of Programming</a>
+  </li>
 </ul>
