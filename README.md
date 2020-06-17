@@ -1,6 +1,5 @@
 # UBB-ComputerScience
 
-<h1>Things I worked on during faculty: </h1>
 <ul>
 <li>
 <a href=https://github.com/victorcalarasu/WebProgramming> Web Programming </a>  
